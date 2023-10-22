@@ -1,0 +1,3 @@
+interface TableData {
+    Object clone();
+}
